@@ -12,8 +12,10 @@ public class Student
             Name = "John Doe",
             ID = 12345
         };
+        List<Student> students = new List<Student>();
+        
 
-        student.AddGrade(90.5, 85.5, 79.8);
+        student.AddGrade();
 
         Console.WriteLine($"Student: {student.Name} (ID: {student.ID})");
         Console.WriteLine("Grades: " + string.Join(", ", student.Grades));
