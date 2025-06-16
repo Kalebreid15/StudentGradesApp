@@ -1,0 +1,14 @@
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.AssemblyInfoInputs.cache
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.AssemblyInfo.cs
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.csproj.CoreCompileInputs.cache
+C:\Users\kaleb\repos\StudentGradesApp\bin\Debug\net9.0\StudentGradesApp.exe
+C:\Users\kaleb\repos\StudentGradesApp\bin\Debug\net9.0\StudentGradesApp.deps.json
+C:\Users\kaleb\repos\StudentGradesApp\bin\Debug\net9.0\StudentGradesApp.runtimeconfig.json
+C:\Users\kaleb\repos\StudentGradesApp\bin\Debug\net9.0\StudentGradesApp.dll
+C:\Users\kaleb\repos\StudentGradesApp\bin\Debug\net9.0\StudentGradesApp.pdb
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.dll
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\refint\StudentGradesApp.dll
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.pdb
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.genruntimeconfig.cache
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\ref\StudentGradesApp.dll
