@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Security;
 
 namespace StudentGradesApp;
 
@@ -40,4 +41,23 @@ public class Student
             Grades.AddRange(grades); // Add all provided grades to the list
         }
     }
+
+    public double CalculateAverageGrade()
+    {
+        if (Grades.Count == 0)
+        {
+            return 0; // Return 0 if no grades exist
+        }
+
+        double sum = 0;
+        foreach (var grade in Grades)
+        {
+            sum += grade;
+        }
+
+        return sum / Grades.Count; // Return the average grade
+    }
+
+
+
 }
