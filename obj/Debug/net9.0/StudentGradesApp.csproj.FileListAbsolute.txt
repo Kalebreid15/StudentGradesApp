@@ -12,3 +12,4 @@ C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\refint\StudentGradesApp.d
 C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.pdb
 C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.genruntimeconfig.cache
 C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\ref\StudentGradesApp.dll
+C:\Users\kaleb\repos\StudentGradesApp\obj\Debug\net9.0\StudentGradesApp.sourcelink.json
